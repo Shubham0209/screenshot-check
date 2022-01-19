@@ -106,7 +106,7 @@ smmap==5.0.0
 sniffio==1.2.0
 snscrape==0.4.3.20220106
 soupsieve==2.3.1
-SQLAlchemy==
+SQLAlchemy
 SQLAlchemy-Utils==0.37.8
 starlette==0.16.0
 tabulate==0.8.9
