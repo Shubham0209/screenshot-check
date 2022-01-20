@@ -65,7 +65,6 @@ networkx==2.5.1
 numpy==1.21.0
 oauthlib==3.1.1
 opencv-contrib-python==4.5.4.60
-opencv-python==4.5.2.54
 opencv-python-headless
 packaging==21.0
 pandas==1.2.5
