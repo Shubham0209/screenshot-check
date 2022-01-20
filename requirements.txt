@@ -66,6 +66,7 @@ numpy==1.21.0
 oauthlib==3.1.1
 opencv-contrib-python==4.5.4.60
 opencv-python==4.5.2.54
+opencv-python-headless==4.2.0.32
 packaging==21.0
 pandas==1.2.5
 parso==0.8.3
