@@ -1,4 +1,4 @@
-﻿aiosignal==1.2.0
+aiosignal==1.2.0
 anyio==3.3.0
 asgiref==3.4.1
 astroid==2.6.2
